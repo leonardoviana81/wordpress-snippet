@@ -11,7 +11,6 @@ Os códigos devem ser utilizados dentro do arquivo **functions.php**
 * Remove o bug da pesquisa em branco, que ocorre ocasionalmente
 * Modifica o slug base do autor
 * Modifica o HTML dos comentários
-* 
 * Adicionando um CSS no Backend
 * Adiciona classe no body em páginas específicas
 * Modifica os nomes dos itens do menu e submenu no Backend
