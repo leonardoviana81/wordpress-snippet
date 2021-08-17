@@ -18,4 +18,11 @@ Os códigos devem ser utilizados dentro do arquivo **functions.php**
 * Remove as principais caixas do Dashboard e adiciona uma caixa com os dados de suporte
 * Remove itens da barra superior de ADMIN
 * Muda tamanho da image das redes sociais do Yoast em determinadas páginas
+* ßUtilizar $_GET no Wordpress
+* Remove barra superior de Admin do site (Frontend)
+* Mostra barra superior de Admin do site apenas para administradores (Frontend)
+* Remove o suporte das Tags nos Posts
+* Define o tamanho do Excerpt de acordo com o tipo do Post
+* Define a quantidade de Posts por página de acordo com o Custom Post Type
+* Define "Upload Files" selecionado por padrão quando for enviar alguma Mídia
 
